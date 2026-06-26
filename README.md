@@ -1,5 +1,8 @@
 # MarketPlace
 
+<img width="1097" height="630" alt="image" src="https://github.com/user-attachments/assets/b7f88fd3-6406-49b6-833a-abf9c02e40a6" />
+
+
 Aplicação marketplace com visual inspirado na Americanas. Permite cadastrar produtos à venda com backend em Node.js/Express e banco SQLite.
 
 ## Como usar
